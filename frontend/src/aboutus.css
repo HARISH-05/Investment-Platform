@@ -1,0 +1,34 @@
+/* AboutUs.css */
+.about-us-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(205, 253, 234);
+    margin-top: 0px;
+
+  }
+  .c-body{
+    background-color:rgb(205, 253, 234);
+    min-height: 100vh;
+    padding-top: 100px;
+    
+  }
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
